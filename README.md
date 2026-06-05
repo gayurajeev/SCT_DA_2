@@ -1,5 +1,4 @@
-# Supply Chain Analytics: Optimizing Performance and Profitability
-
+**Supply Chain Data Quality Audit & Automated Data Preparation Framework using Python, Pandas, NumPy**
 ## Project Overview
 This project focuses on a comprehensive analysis of a supply chain dataset to identify inefficiencies, predict delivery performance, and drive strategic improvements. By employing robust data cleaning, advanced feature engineering, and the calculation of key performance indicators (KPIs), this analysis provides actionable insights into customer behavior, order fulfillment, and profitability.
 
